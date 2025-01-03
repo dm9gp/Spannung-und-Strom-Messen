@@ -1,4 +1,4 @@
-# Spannung-und-Strom-Messen
+# Spannung und Strom Messen
 
 Hier sind die Dateien zur Platine, "Printed circuit board" (PCB), von dem YouTube Video "Spannung und Strom Messen" aus dem Kanal "www.youtube.com/@dm9gp".
 
