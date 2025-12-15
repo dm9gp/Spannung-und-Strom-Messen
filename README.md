@@ -17,7 +17,7 @@ Außerdem, werden auch die unten aufgeführten Komponenten benötigt.
     Schraubklemme / Terminal Block / Screw Terminal - 2 Pins "3,5 mm Pitch Panel PCB Mount"
     Widerstand: 330 Ohm 
     LED: Rot
-    Jumper, 2 pins
+    Jumper, 2 pins (e.g. 2.54mm Pitch Straight Single Row Header Connector 1x40 Pins)
     Jumper Kappe: Anschlusskappe 2,54mm / Pitch Pin Header / Anschluss Lang
 
 Es kann auch auf einer Steckplatine geübt werden. Das Bild "Breadbord.jpg" soll dazu helfen. 
