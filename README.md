@@ -14,11 +14,14 @@ Außerdem, werden auch die unten aufgeführten Komponenten benötigt.
 
     Batterie: 9V
     Batteriehalter für 9V Batterien
-    Schraubklemme / Terminal Block / Screw Terminal - 2 Pins "PIN SPACING: 5.08mm" / Raster 5 mm
+    Schraubklemme / Terminal Block / Screw Terminal - 2 Pins "PIN SPACING: 5.08mm"
+	    e.g. "Heevhas 60 Pieces 5.08 mm 2 Pin & 3 Pin PCB Screw Terminal Block Solderable Connector 300 V 16 A for Arduino DIY Project (50 x 2 Pin, 10 x 3 Pin)"
+	    e.g. "YIXISI 110 Stücke 5mm 2 Pin PCB Mount Screw Terminal Block, Schraubklemme Steckverbinder, für Arduino"
     Widerstand: 330 Ohm 
     LED: Rot
     Jumper, 2 pins (e.g. 2.54mm Pitch Straight Single Row Header Connector 1x40 Pins)
-    Jumper Kappe: Anschlusskappe 2,54mm / Pitch Pin Header / Anschluss Lang (Jumper Cap 2.54mm Pitch Pin Header Connector Long Type Jumper Plug Cover)
+    Jumper Kappe: Anschlusskappe 2,54mm / Pitch Pin Header / Anschluss Lang
+	    e.g. Jumper Cap 2.54mm Pitch Pin Header Connector Long Type Jumper Plug Cover)
 
 Es kann auch auf einer Steckplatine geübt werden. Das Bild "Breadbord.jpg" soll dazu helfen. 
 In dem Fall braucht man auch natürlich eine Steckplatine. 
