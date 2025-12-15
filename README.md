@@ -14,7 +14,7 @@ Außerdem, werden auch die unten aufgeführten Komponenten benötigt.
 
     Batterie: 9V
     Batteriehalter für 9V Batterien
-    Schraubklemme / Terminal Block / Screw Terminal - 2 Pins "PIN SPACING: 5.08mm"
+    Schraubklemme / Terminal Block / Screw Terminal - 2 Pins "PIN SPACING: 5.08mm" / Raster 5 mm
     Widerstand: 330 Ohm 
     LED: Rot
     Jumper, 2 pins (e.g. 2.54mm Pitch Straight Single Row Header Connector 1x40 Pins)
