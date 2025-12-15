@@ -18,7 +18,7 @@ Außerdem, werden auch die unten aufgeführten Komponenten benötigt.
     Widerstand: 330 Ohm 
     LED: Rot
     Jumper, 2 pins (e.g. 2.54mm Pitch Straight Single Row Header Connector 1x40 Pins)
-    Jumper Kappe: Anschlusskappe 2,54mm / Pitch Pin Header / Anschluss Lang
+    Jumper Kappe: Anschlusskappe 2,54mm / Pitch Pin Header / Anschluss Lang (Jumper Cap 2.54mm Pitch Pin Header Connector Long Type Jumper Plug Cover)
 
 Es kann auch auf einer Steckplatine geübt werden. Das Bild "Breadbord.jpg" soll dazu helfen. 
 In dem Fall braucht man auch natürlich eine Steckplatine. 
